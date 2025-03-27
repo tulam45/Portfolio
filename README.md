@@ -48,7 +48,7 @@ This is an on-going project at my workplace working on an open-source software c
 ## Wesbite Project - BTS
 This project was an individual project during my undergrad class that focus on the `HTML/CSS` concept and understanding the `how-to create a web development` structure in the field of computer science. The project compose of coding in <ins>HTML/CSS</ins> but there are element of <ins>JavaScript and GET/POST</ins> method to produce a website of the personal choice creation.
 
-**Link**: [Click here](#) to go to the Project Folder
+**Link**: [Click here](https://github.com/tulam45/Portfolio/tree/main/Website%20Project) to go to the Project Folder
 
 **Start Date**: `January, 2020` - `March, 2020`
 
