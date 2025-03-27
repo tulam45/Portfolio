@@ -1,5 +1,5 @@
-# CS563-Study-Project
-Contains the evaluation programs used in the CS563 project
+# Code Review vs. Bug Occurrences Research
+This folder contains the evaluation programs used in this project with all the statistical data collection tool and written in `Python` to collect these data.
 
 ## R-Value
 The `r_value` python program is a script python program that have the data of the `review_frequency, depth, reviewers_count, and bug occurences` to determine the correlation of the three variables.
