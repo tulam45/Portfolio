@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:700|Monoton|Montserrat:600|Spartan:700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li, a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: #DDA0BA;
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 30px 10%;
+}
+
+.navbar {
+    list-style: none;
+}
+
+    .navbar > li {
+        display: inline-block;
+        padding: 0px 20px;
+    }
+
+        .navbar > li > a {
+            transition: all 0.3s ease 0s;
+        }
+
+            .navbar > li > a:hover {
+                color: #FF3D30;
+            }
+
+.logo {
+    margin-right: auto;
+}
+
+
+.submission {
+    max-width: 500px;
+    margin: 2rem auto;
+    border: 2px solid #DDA0BA;
+    padding: 2rem;
+    font-family: "Spartan";
+    
+.submission > label {
+              display: block;
+              padding: 1rem 0 .5rem;
+              font-size: 14px;
+          }
+
+.submission > input {
+        display: block;
+        width: 100%;
+        border: 2px solid #007aff;
+        padding: .5rem;
+        border-radius: 5px;
+    }
+
+.submission > button {
+        display: block;
+        width: 100%
+        font-family: "Montserrat";
+    }
+}
+
+.submission > .sendbtn {
+    border: 0;
+    background: #007AFF;
+    padding: .5rem;
+    color: #FFFFFF;
+    margin: 1rem 0;
+    width: auto;
+    cursor: pointer;
+    &:hover {
+                background: #ff3d30;
+            }
+}
+
+.survey_name {
+    text-align:center;
+    font-family: "Spartan";
+    font-size: 50px;
+    padding: 10px 5px 10px 5px;
+}
