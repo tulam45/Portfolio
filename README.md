@@ -26,7 +26,7 @@ This project was a group project during my grad class that focus on the  princip
 
 
 ## Scholars Archive
-This is an on-going project at my workplace working on an open-source software called 'Hyrax' to implement the front-end and back-end of a website using `Ruby on Rails` application to run the website. Most of my position includes with updating the site, add new features, fixing bugs, and maintain the site to the desire of the stakeholder.
+This is an on-going project at my workplace working on an open-source software called 'Hyrax' to implement the front-end and back-end of a website using `Ruby on Rails` application to run the website. Most of my position includes with updating the site, add new features, fixing bugs, and maintain the site to the desire of the stakeholder. All my contribution are made under the username: `lamtu1` in the repo.
 
 **Link**: [Click here](https://github.com/osulp/Scholars-Archive) to go to the Project Repository
 
@@ -36,7 +36,7 @@ This is an on-going project at my workplace working on an open-source software c
 
 
 ## Oregon Digital
-This is an on-going project at my workplace working on an open-source software called 'Hyrax' to implement the front-end and back-end of a website using `Ruby on Rails` application to run the website. Same as `Scholars Archive`, most of my position includes with updating the site, add new features, fixing bugs, and maintain the site to the desire of the stakeholder.
+This is an on-going project at my workplace working on an open-source software called 'Hyrax' to implement the front-end and back-end of a website using `Ruby on Rails` application to run the website. Same as `Scholars Archive`, most of my position includes with updating the site, add new features, fixing bugs, and maintain the site to the desire of the stakeholder. All my contribution are made under the username: `lamtu1` in the repo.
 
 **Link**: [Click here](https://github.com/OregonDigital/OD2) to go to the Project Repository
 
