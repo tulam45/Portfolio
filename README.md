@@ -20,6 +20,6 @@ This project was an individual project during my grad class that focus on the `G
 ## Research Correlation on Code Review vs. Bug Occurrences
 This project was a group project during my grad class that focus on the  principle `Software Maintenance/Evolution` concept and understanding the `Research on Software Maintenance` structure in the field of computer science. The project compose of researching and collecting data to help understand.
 
-**Link**: [Click here](#) to go to the Project Folder
+**Link**: [Click here](https://github.com/tulam45/Portfolio/tree/main/Code%20Review%20vs.%20Bug%20Occurrences) to go to the Project Folder
 
-**Project Date**: `November, 2024` - `December, 2024`
+**Project Date**: `January, 2025` - `March, 2025`
