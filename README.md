@@ -23,3 +23,14 @@ This project was a group project during my grad class that focus on the  princip
 **Link**: [Click here](https://github.com/tulam45/Portfolio/tree/main/Code%20Review%20vs.%20Bug%20Occurrences) to go to the Project Folder
 
 **Project Date**: `January, 2025` - `March, 2025`
+
+
+## Scholars Archive
+This is an on-going project at my workplace working on an open-source software called 'Hyrax' to implement the front-end and back-end of a website using `Ruby on Rails` application to run the website. Most of my position includes with updating the site, add new features, fixing bugs, and maintain the site to the desire of the stakeholder.
+
+**Link**: [Click here](https://github.com/osulp/Scholars-Archive) to go to the Project Repository
+
+**Link**: [Click here](https://ir.library.oregonstate.edu/) to go to the Website
+
+**Start Date**: `August, 2022` - `Now`
+
