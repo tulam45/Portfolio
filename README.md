@@ -34,3 +34,13 @@ This is an on-going project at my workplace working on an open-source software c
 
 **Start Date**: `August, 2022` - `Now`
 
+
+## Oregon Digital
+This is an on-going project at my workplace working on an open-source software called 'Hyrax' to implement the front-end and back-end of a website using `Ruby on Rails` application to run the website. Same as `Scholars Archive`, most of my position includes with updating the site, add new features, fixing bugs, and maintain the site to the desire of the stakeholder.
+
+**Link**: [Click here](https://github.com/OregonDigital/OD2) to go to the Project Repository
+
+**Link**: [Click here](https://oregondigital.org/) to go to the Website
+
+**Start Date**: `August, 2023` - `Now`
+
